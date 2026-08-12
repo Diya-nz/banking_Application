@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="AssemblyInfo.cs" />
+  </Folder>
+  <Project Path="../Banking_Sprint.Tests/Banking_Sprint.Tests.csproj" Id="8b6fbbc9-dd40-4629-bb68-beb1850b5003" />
+  <Project Path="Banking_Sprint1.csproj" />
+</Solution>
